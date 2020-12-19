@@ -1,0 +1,38 @@
+body {
+    background-color:rgb(0, 0, 0);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;    
+}
+
+.example {
+
+    margin-left:300px;
+    font-size: 20px;
+    border-radius: 5%;
+
+    
+}
+.example {
+    border-radius: 5%;
+}
+
+    .drop1{
+        background:linear-gradient(blue,darkblue);
+        border-radius: 5%;
+    }
+   .example a:hover {
+        background-color:purple;
+        cursor: crosshair;
+        border-radius: 5%;
+        color:yellow;
+    }
+    .centrir {
+        border-radius: 5%;
+    }
+    .clr{
+        color:red;
+        border-radius: 5%;
+
+    }
+    .crs {
+        cursor: crosshair;
+    }
